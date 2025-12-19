@@ -7,3 +7,5 @@ keras==2.15.0
 transformers
 beautifulsoup4
 lxml
+bcrypt
+auth
